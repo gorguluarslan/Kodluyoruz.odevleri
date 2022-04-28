@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(110, 220, 235);
+}
+.bir{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 300px;
+    color: blue;
+}
+.iki{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+}
+.uc{
+    margin-left: 300px;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    color: blueviolet;
+}
+.dort{
+    margin-left: 300px;
+    font-size: 18px;
+    color: rgb(9, 51, 29);
+}
+.bes{
+    margin-left: 1200px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+    color: blueviolet;
+}
+h2{
+    color: blueviolet;
+    
+}
