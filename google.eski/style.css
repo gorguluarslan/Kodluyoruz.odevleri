@@ -1,0 +1,35 @@
+img{
+    margin: 0 auto;
+    display: block;
+}
+.bir{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0;
+    width: 90%;
+    background-color: #EEEEEE;
+}
+.iki{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.uc{
+    text-align: center;
+    background-color: #7EE5DA;
+    width: 33%;
+}
+.dort{
+    text-align: center;
+    background-color: #70CCC2;
+    width: 17%;
+}
+.bes{
+    text-align: center;
+    background-color: #62B3AA;
+    width: 39%;
+}
+p{
+    text-align: center;
+}
