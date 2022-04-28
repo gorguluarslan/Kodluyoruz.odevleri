@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(213, 138, 226);
+}
+nav{
+    text-align: center;
+}
+h1{
+    color:rgb(214, 81, 103);
+    font-size: 30px;
+}
+a{
+    padding: 8px;
+    text-decoration: none;
+    color:purple;
+    font-size: 18px;
+}
+a:hover{
+    color: rgb(9, 21, 9);
+}
+
+h2{
+    text-align: center;
+    color: rgb(49, 144, 144);
+}
+h3{
+    color: rgb(197, 128, 79);
+    font-size: 24px;
+}
+
+p, ul, ol{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    margin: 0 auto;
+    display: block;
+}
