@@ -1,0 +1,98 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    display: inline-block;
+    margin: auto 5px;
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+nav img{
+    margin: auto 5px;
+    width: 34px;
+    padding: 5px;
+}
+.logo{
+    display: block;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+.orta{
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+.orta-iki{
+    display: block;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    font-size: 16px;
+    margin: 0px auto;
+    padding: 15px;
+    padding-left: 40px;
+    width: 480px;
+    box-shadow: 4px 4px 6px gray;
+    outline: none;
+    
+}
+.orta-dort{
+    border: 1px bold #f2f2f2;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    height: 36px;
+    width: 150px;
+    margin: 4px;
+    box-shadow: 4px 4px 6px gray;
+}
+.orta-bir{
+    position: relative;
+    width: 20px;
+    top: 38px;
+    right: 244px;
+}
+.orta-uc{
+    position: relative;
+    width: 26px;
+    bottom: 38px;
+    left: 244px;
+}
+.alt{
+    position: fixed;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+    list-style-type: none;
+}
+.alt-bir{
+    float: left;
+}
+.alt-bir a{
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+}
+.alt-bir a:hover{
+    text-decoration: underline;
+}
